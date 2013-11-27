@@ -1,0 +1,8 @@
+T,CD
+N,book
+N,chocolate
+N,chocolates
+T,perfume
+N,pills
+
+
